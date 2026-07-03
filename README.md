@@ -8,7 +8,7 @@ _Add your GitHub Pages link here once deployed._
 
 ## Preview
 
-_Add a screenshot here, e.g. `![Dashboard preview](images/preview.png)`_
+https://avadhootk599-crypto.github.io/admin-dashboard/
 
 ## Features
 
